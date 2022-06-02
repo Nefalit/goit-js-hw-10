@@ -33,3 +33,16 @@ h1 {
   margin-left: auto;
   margin-right: auto;
 }
+.country-info {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+.country-info-item {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+.country-info-text {
+    margin-left: 20px;
+}
